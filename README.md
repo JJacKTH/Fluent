@@ -19,7 +19,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 
 ## 📜 Usage
 
-[Example Script](https://github.com/dawid-scripts/Fluent/blob/master/Example.lua)
+[Example Script](https://github.com/JJacKTH/Fluent/blob/master/Example.lua)
 <br/>
 
 ## Credits
